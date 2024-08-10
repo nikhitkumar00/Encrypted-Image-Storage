@@ -35,7 +35,7 @@ The application employs AES (Advanced Encryption Standard) to secure your images
 1. **Clone the Repository**:
    - Use the following command to clone the repository to your local machine:
      ```bash
-     git clone https://github.com/yourusername/encrypted-image-storage.git
+     git clone https://github.com/nikhitkumar00/Encrypted-Image-Storage
      ```
 
 2. **Navigate to the Project Directory**:
